@@ -1,4 +1,4 @@
-![General Assembly Logo](http://i.imgur.com/ke8USTq.png)
+l![General Assembly Logo](http://i.imgur.com/ke8USTq.png)
 
 ## Challenge
 
@@ -32,19 +32,19 @@ Open up this file in your text editor, and write your answers below (where indic
 1. Is `/Users/blah_blah/Desktop` a relative path or an absolute path? How do you know?
 
 <!-- Answer Starts Here -->
-
+absolute, because it starts with '/'
 <!-- Answer Ends Here -->
 
 2. Suppose that we're working on a project, and we want to use a font that's being hosted somewhere on the internet. Would we use an absolute or relative path to refer to it? Why?
 
 <!-- Answer Starts Here -->
-
+since we want it remain hosted on some external source we'd rather use the absolute path to refer to it
 <!-- Answer Ends Here -->
 
 3. Now suppose that we have an image file living inside our project. Would we refer to it with an absolute or relative path? Why?
 
 <!-- Answer Starts Here -->
-
+relative would be better in this case because we can move this project around without the fear of breaking it
 <!-- Answer Ends Here -->
 
 <hr>
